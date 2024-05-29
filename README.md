@@ -32,10 +32,5 @@ This project aims to develop a genetic algorithm to optimize job shop scheduling
 - `Genetic_job_scheduling.py`: The main code file implementing the genetic algorithm for job shop scheduling.
 - `Project_description`: The main requirements of the project.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
 
 
